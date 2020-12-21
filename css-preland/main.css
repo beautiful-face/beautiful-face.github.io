@@ -1742,7 +1742,6 @@ li {
 
 a {
     font-family: open sans !important;
-    font-weight: 400 !important
 }
 
 .mc4wp-form input[name^=_mc4wp_honey] {
@@ -10319,7 +10318,7 @@ h6,
 .headline,
 .page-title,
 h2.wpb_call_text {
-    font-family: noto sans, sans-serif
+    /* font-family: noto sans, sans-serif */
 }
 
 p {
@@ -31836,7 +31835,7 @@ body.boxed-right #page,
 
 a,
 .widget a {
-    color: #cc5172
+    color: red
 }
 
 a:hover,
